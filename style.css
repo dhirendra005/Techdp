@@ -64,3 +64,22 @@ body {
     background-color: rgb(22, 192, 101);
     transition-duration: 2s;
 }
+ .video {
+  padding-top: 55px;
+  z-index: 100;
+}
+
+.Video {
+  color: white;
+  text-decoration: none;
+  background-color: aqua;
+  margin-left: 30%;
+  font-size: 100px;
+  border-color: brown;
+  border-width: 24px;
+  border-radius: 50%;
+  
+}
+.Video:hover {
+  color: blueviolet;
+}
